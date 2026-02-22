@@ -31,9 +31,6 @@
   list-style: none;
 }
 
-.header__link {
-}
-
 .header__logo {
   margin: 92px 0 96px 0;
 }
@@ -276,9 +273,6 @@
 
 .footer__menu-link_active {
   text-decoration: none;
-}
-
-.footer__social {
 }
 
 .footer__social-list {
