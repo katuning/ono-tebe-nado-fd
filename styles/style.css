@@ -1,5 +1,4 @@
-body {
-}
+
 
 .header {
   display: grid;
@@ -56,9 +55,6 @@ body {
 
 .address__links-list {
   list-style: none;
-}
-
-.address__links-list-item {
 }
 
 .address__link {
@@ -230,9 +226,6 @@ body {
   margin: 0 24px 180px 24px;
 }
 
-.about__column {
-}
-
 .about__logo {
   display: flex;
   justify-content: center;
@@ -272,9 +265,6 @@ body {
   padding: 0 50px 82px 50px;
 }
 
-.footer__menu {
-}
-
 .footer__menu-list {
   text-align: center;
   list-style: none;
@@ -301,10 +291,4 @@ body {
 .footer__social-list-item {
   width: 48px;
   height: 28px;
-}
-
-.footer__social-link {
-}
-
-.footer__social-icon {
 }
